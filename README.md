@@ -11,11 +11,11 @@
   <h3>
     <a href="#about">About</a>
     <span> | </span>
+    <a href="#stats">Stats</a>
+    <span> | </span>
     <a href="#projects">Projects</a>
     <span> | </span>
-    <a href="#statc">Stats</a>
-    <span> | </span>
-    <a href="#contact">Contact</a>
+    <a href="mailto:bartosz.zbytniewski.dev@gmail.com" alt="Contact me">Contact</a>
   </h3>
 </div>
 
@@ -23,20 +23,18 @@
 I love making things. I'm fascinated by programming because I can make my own tools which do exactly what I want.
 
 
-- heavy Linux user (both user-space and kernel-space)
-- I love low level tinkering and hacks
-- I'm using Vim anywhere I can
-- focusing on making SOLID, well tested software
+- 🐧 Heavy Linux user (both user-space and kernel-space)
+- 🛠 I love low level tinkering and hacks
+- 🍕 I'm using Vim anywhere I can
+- ⁙ Focusing on making SOLID, well tested software
 
-## <p id="projects">Projects</p>
+<details>
+  <summary>Stuff that keeps me busy right now</summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
+  - 💼 Software Engineer at <a href="https://cognifide.com">Cognifide</a>
+  - 🦀 Learning <a href="https://www.rust-lang.org/">Rust</a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</details>
 
 ## <p id="stats">Stats</p>
 
@@ -46,16 +44,22 @@ I love making things. I'm fascinated by programming because I can make my own to
 
 </center>
 
-## <p id="contact">Contact</p>
+## <p id="projects">Projects</p>
 
-<p align="center">
-  <i>Let's connect and chat!</i>
+<a href="https://github.com/devzbysiu/rust-project-template">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
+</a>
 
-  <p align="center">
-    <a href="mailto:bartosz.zbytniewski.dev@gmail.com" alt="Contact me"><img src="mail-line.svg"></a>
-  </p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-  <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=devzbysiu.visitor-badge">
-  </p>
-</p>
+<a href="https://github.com/devzbysiu/rust-project-template">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
