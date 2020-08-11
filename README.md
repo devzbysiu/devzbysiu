@@ -38,11 +38,11 @@ I love making things. I'm fascinated by programming because I can make my own to
 
 ## <p id="stats">Stats</p>
 
-<center>
+<div align="center">
 
   ![devzbysiu's github stats](https://github-readme-stats.vercel.app/api?username=devzbysiu&count_private=true&include_all_commits=true)
 
-</center>
+</div>
 
 ## <p id="projects">Projects</p>
 
@@ -51,7 +51,7 @@ I love making things. I'm fascinated by programming because I can make my own to
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <a href="https://github.com/devzbysiu/rust-project-template">
@@ -59,7 +59,6 @@ I love making things. I'm fascinated by programming because I can make my own to
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-
 
