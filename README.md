@@ -50,8 +50,8 @@ I love making things. I'm fascinated by programming because I can make my own to
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/devzbysiu/je">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
 </a>
 
 <a href="https://github.com/devzbysiu/rust-project-template">
