@@ -54,8 +54,8 @@ I love making things. I'm fascinated by programming because I can make my own to
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
 </a>
 
-<a href="https://github.com/devzbysiu/rust-project-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
+<a href="https://github.com/devzbysiu/transition">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
