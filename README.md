@@ -23,8 +23,7 @@
 I love making things. I'm fascinated by programming because I can make my own tools which do exactly what I want.
 
 
-- 🐧 Heavy Linux user (both user-space and kernel-space)
-- 🛠 I love low level tinkering and hacks
+- 🐧 Heavy Linux user
 - 🍕 I'm using Vim anywhere I can
 - ⁙ Focusing on making SOLID, well tested software
 
