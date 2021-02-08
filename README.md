@@ -30,7 +30,7 @@ I love making things. I'm fascinated by programming because I can make my own to
 <details>
   <summary>Stuff that keeps me busy right now</summary>
 
-  - 💼 Software Engineer at <a href="https://cognifide.com">Cognifide</a>
+  - 💼 Senior Software Engineer at <a href="https://cognifide.com">Wunderman Thompson Technology</a>
   - 🦀 Learning <a href="https://www.rust-lang.org/">Rust</a>
 
 </details>
