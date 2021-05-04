@@ -61,3 +61,10 @@ I love making things. I'm fascinated by programming because I can make my own to
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
 </a>
 
+<a href="https://github.com/devzbysiu/books-daemon">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
+</a>
+
+<a href="https://github.com/devzbysiu/sweetch-bot">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
+</a>
