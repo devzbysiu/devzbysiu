@@ -45,26 +45,31 @@ I love making things. I'm fascinated by programming because I can make my own to
 
 ## <p id="projects">Projects</p>
 
-<a href="https://github.com/devzbysiu/rust-project-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
-</a>
+  <div>
 
-<a href="https://github.com/devzbysiu/je">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
-</a>
+  <a href="https://github.com/devzbysiu/rust-project-template">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
+  </a>
 
-<a href="https://github.com/devzbysiu/transition">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
-</a>
+  <a href="https://github.com/devzbysiu/je">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
+  </a>
 
-<a href="https://github.com/devzbysiu/cargo-blinc">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
-</a>
+  <a href="https://github.com/devzbysiu/transition">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
+  </a>
 
-<a href="https://github.com/devzbysiu/books-daemon">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
-</a>
+  <a href="https://github.com/devzbysiu/cargo-blinc">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
+  </a>
+</div>
 
-<a href="https://github.com/devzbysiu/sweetch-bot">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
-</a>
+<div>
+  <a href="https://github.com/devzbysiu/books-daemon">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
+  </a>
+
+  <a href="https://github.com/devzbysiu/sweetch-bot">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
+  </a>
+</div>
