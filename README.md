@@ -19,8 +19,6 @@
     <span> | </span>
     <a href="#projects">Projects</a>
     <span> | </span>
-    <a href="#contributions">Contributions</a>
-    <span> | </span>
     <a href="mailto:bartosz.zbytniewski.dev@gmail.com" alt="Contact me">Contact</a>
   </h3>
 </div>
@@ -97,10 +95,4 @@ I love making things. I'm fascinated by programming because I can make my own to
 
 <a href="https://github.com/devzbysiu/sweetch-bot">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
-</a>
-
-## <p id="contributions">Contributions</p>
-
-<a href="https://github.com/devzbysiu/firecracker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=firecracker" />
 </a>
