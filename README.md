@@ -43,6 +43,7 @@ I love making things. I'm fascinated by programming because I can make my own to
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust"/>
+  <img src="https://img.shields.io/badge/-Shell-000?style=for-the-badge&logo=Shell"/>
   <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=Kotlin"/>
   <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript"/>
