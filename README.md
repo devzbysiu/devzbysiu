@@ -24,44 +24,54 @@
 </div>
 
 ## <p id="about">About me</p>
-I love making things. I'm fascinated by programming because I can make my own tools which do exactly what I want.
+I love making things. I'm fascinated by programming because I can make my own tools which do exactly
+what I want.
 
-
-- 🐧 Heavy Linux user
-- 🍕 I'm using Vim anywhere I can
-- ⁙ Focusing on making SOLID, well tested software
+| 🐧 Heavy Linux user<br>🍕 Using Vim anywhere I can<br>⁙ Focusing on making SOLID, well tested software | ☛ Quickly becoming "go-to person" in every project<br>💼 Senior Software Engineer at <a href="https://cognifide.com">Wunderman Thompson Technology</a><br>🦀 Writing software in <a href="https://www.rust-lang.org/">Rust</a><br> |
+| :---                                                                                                   | :---                                                                                                                                                                                                                               |
 
 <details>
-  <summary>Stuff that keeps me busy right now</summary>
+  <summary>Experience</summary>
 
-  - 💼 Senior Software Engineer at <a href="https://cognifide.com">Wunderman Thompson Technology</a>
-  - 🦀 Learning <a href="https://www.rust-lang.org/">Rust</a>
+  - over 5 years of commercial experience in Java
+  - working on multiple projects in international teams for big clients (worldwide, known brands)
+  - technical recruiter of Java devs for over 3 years
+  - technical recruiter of React devs (just started)
 
 </details>
 
 ### <p id="languages">Languages</p>
 
+##### Most comfortable with
 <div align="center">
-  <img src="https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust"/>
-  <img src="https://img.shields.io/badge/-Shell-000?style=for-the-badge&logo=Shell"/>
-  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=Kotlin"/>
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript"/>
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python"/>
-  <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL"/>
+  <img src="https://img.shields.io/badge/-Rust-f2f2f2?style=for-the-badge&logo=Rust&logoColor=000"/>
+  <img src="https://img.shields.io/badge/-Shell-f2f2f2?style=for-the-badge&logo=Shell"/>
+  <img src="https://img.shields.io/badge/-Java-f2f2f2?style=for-the-badge&logo=Java&logoColor=007396"/>
+</div>
+
+##### Comfortable with
+<div align="center">
+  <img src="https://img.shields.io/badge/-Kotlin-f2f2f2?style=for-the-badge&logo=Kotlin&logoColor=Kotlin"/>
+  <img src="https://img.shields.io/badge/-JavaScript-f2f2f2?style=for-the-badge&logo=JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-f2f2f2?style=for-the-badge&logo=TypeScript"/>
+  <img src="https://img.shields.io/badge/-Python-f2f2f2?style=for-the-badge&logo=Python"/>
+</div>
+
+##### Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/-Dart-f2f2f2?style=for-the-badge&logo=Dart&logoColor=000"/>
 </div>
 
 ## <p id="technologies">Technologies</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux"/>
-  <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90"/>
-  <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes"/>
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React"/>
-  <img src="https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=Vue.js"/>
-  <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Google cloud-000?style=for-the-badge&logo=google-cloud"/>
+  <img src="https://img.shields.io/badge/-Linux-f2f2f2?style=for-the-badge&logo=Linux&logoColor=000"/>
+  <img src="https://img.shields.io/badge/-AWS-f2f2f2?style=for-the-badge&logo=Amazon-AWS&logoColor=F90"/>
+  <img src="https://img.shields.io/badge/-Docker-f2f2f2?style=for-the-badge&logo=Docker"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-f2f2f2?style=for-the-badge&logo=Kubernetes"/>
+  <img src="https://img.shields.io/badge/-React-f2f2f2?style=for-the-badge&logo=React"/>
+  <img src="https://img.shields.io/badge/-Vue-f2f2f2?style=for-the-badge&logo=Vue.js"/>
+  <img src="https://img.shields.io/badge/-Node.js-f2f2f2?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Google%20cloud-f2f2f2?style=for-the-badge&logo=google-cloud"/>
 </div>
 
 ## <p id="stats">Stats</p>
