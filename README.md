@@ -73,6 +73,7 @@ what I want.
   <img src="https://img.shields.io/badge/-Node.js-f2f2f2?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/-Flutter-f2f2f2?style=for-the-badge&logo=flutter&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-Google%20cloud-f2f2f2?style=for-the-badge&logo=google-cloud"/>
+  <img src="https://img.shields.io/badge/-Terraform-f2f2f2?style=for-the-badge&logo=terraform&logoColor=purple"/>
 </div>
 
 ## <p id="stats">Stats</p>
