@@ -2,12 +2,6 @@
 
 <div align="center">
 
-  <h1><code>Bartek Zbytniewski</code></h1>
-
-  <h3>
-    <strong>Software Engineer</strong>
-  </h3>
-
   <h3>
     <a href="#about">About</a>
     <span> | </span>
