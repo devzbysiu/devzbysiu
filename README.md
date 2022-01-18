@@ -21,7 +21,7 @@
 I love making things. I'm fascinated by programming because I can make my own tools which do exactly
 what I want.
 
-| 🐧 Heavy Linux user<br>🍕 Using Vim anywhere I can<br>⁙ Focusing on making SOLID, well tested software | ☛ Quick learner<br>💼 Senior Software Engineer at <a href="https://cognifide.com">Wunderman Thompson Technology</a><br>🦀 Writing software in <a href="https://www.rust-lang.org/">Rust</a> in my free time<br> |
+| 🐧 Heavy Linux user<br>🍕 Using Vim anywhere I can<br>⁙ Focusing on making SOLID, well tested software | ☛ Quick learner<br>🦀 Writing software in <a href="https://www.rust-lang.org/">Rust</a> in my free time<br> |
 | :---                                                                                                   | :---                                                                                                                                                                                                            |
 
 <details>
@@ -30,7 +30,7 @@ what I want.
   - over 5 years of commercial experience in Java
   - working on multiple projects in international teams for big clients (worldwide, known brands)
   - technical recruiter of Java devs for over 3 years
-  - technical recruiter of React devs (just started)
+  - technical recruiter of React devs
 
 </details>
 
