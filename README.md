@@ -84,8 +84,8 @@ what I want.
 
 ― Linus Torvalds
 
-<a href="https://github.com/devzbysiu/rust-project-template">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=rust-project-template" />
+<a href="https://github.com/devzbysiu/cleaboard">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
 <a href="https://github.com/devzbysiu/je">
