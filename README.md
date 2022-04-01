@@ -21,8 +21,16 @@
 I love making things. I'm fascinated by programming because I can make my own tools which do exactly
 what I want.
 
-| 🐧 Heavy Linux user<br>🍕 Using Vim anywhere I can<br>⁙ Focusing on making SOLID, well tested software | ☛ Quick learner<br>🦀 Writing software in <a href="https://www.rust-lang.org/">Rust</a> in my free time<br> |
-| :---                                                                                                   | :---                                                                                                                                                                                                            |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left"><b>🐧 Heavy Linux user<br>🍕 Using Vim anywhere I can<br>⁙ Focusing on making SOLID, well tested software</b></td>
+    <td align="left"><b>☛ Quick learner<br>🦀 Writing software in <a href="https://www.rust-lang.org/">Rust</a> in my free time<br><b></td>
+  </tr>
+</table>
+
+</div>
 
 <details>
   <summary>Experience</summary>
