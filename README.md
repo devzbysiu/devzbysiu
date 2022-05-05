@@ -37,8 +37,8 @@ what I want.
 
   - over 5 years of commercial experience in Java
   - working on multiple projects in international teams for big clients (worldwide, known brands)
-  - technical recruiter of Java devs for over 3 years
-  - technical recruiter of React devs
+  - technical interviewer of Java devs for over 3 years
+  - technical interviewer of React devs
 
 </details>
 
