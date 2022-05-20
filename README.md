@@ -53,15 +53,10 @@ what I want.
 
 ##### Comfortable with
 <div align="center">
-  <img src="https://img.shields.io/badge/-Kotlin-f2f2f2?style=for-the-badge&logo=Kotlin&logoColor=Kotlin"/>
   <img src="https://img.shields.io/badge/-JavaScript-f2f2f2?style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-f2f2f2?style=for-the-badge&logo=TypeScript"/>
-  <img src="https://img.shields.io/badge/-Python-f2f2f2?style=for-the-badge&logo=Python"/>
-</div>
-
-##### Learning
-<div align="center">
   <img src="https://img.shields.io/badge/-Dart-f2f2f2?style=for-the-badge&logo=Dart&logoColor=000"/>
+  <img src="https://img.shields.io/badge/-Python-f2f2f2?style=for-the-badge&logo=Python"/>
 </div>
 
 ## <p id="technologies">Technologies</p>
@@ -92,20 +87,20 @@ what I want.
 
 ― Linus Torvalds
 
-<a href="https://github.com/devzbysiu/cleaboard">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
-</a>
-
 <a href="https://github.com/devzbysiu/je">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
 </a>
 
-<a href="https://github.com/devzbysiu/transition">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
+<a href="https://github.com/devzbysiu/cleaboard">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
 <a href="https://github.com/devzbysiu/cargo-blinc">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
+</a>
+
+<a href="https://github.com/devzbysiu/transition">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
 </a>
 
 <a href="https://github.com/devzbysiu/books-daemon">
