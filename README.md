@@ -88,7 +88,7 @@ what I want.
 ― Linus Torvalds
 
 <a href="https://github.com/devzbysiu/je">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
 </a>
 
 <a href="https://github.com/devzbysiu/cargo-blinc">
@@ -96,7 +96,7 @@ what I want.
 </a>
 
 <a href="https://github.com/devzbysiu/dox">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
 </a>
 
 <a href="https://github.com/devzbysiu/quizers">
@@ -108,7 +108,7 @@ what I want.
 </a>
 
 <a href="https://github.com/devzbysiu/cleaboard">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
 <a href="https://github.com/devzbysiu/books-daemon">
