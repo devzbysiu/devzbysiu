@@ -95,7 +95,7 @@ what I want.
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
 </a>
 
-<p>test</test>
+<p></p>
 
 <a href="https://github.com/devzbysiu/dox">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
@@ -105,7 +105,7 @@ what I want.
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
 </a>
 
-<p>test</test>
+<p></p>
 
 <a href="https://github.com/devzbysiu/transition">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
@@ -115,7 +115,7 @@ what I want.
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
-<p>test</test>
+<p></p>
 
 <a href="https://github.com/devzbysiu/books-daemon">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
