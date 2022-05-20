@@ -99,6 +99,10 @@ what I want.
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
 </a>
 
+<a href="https://github.com/devzbysiu/quizers">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
+</a>
+
 <a href="https://github.com/devzbysiu/transition">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
 </a>
