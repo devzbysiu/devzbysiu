@@ -77,7 +77,7 @@ what I want.
 
 <div align="center">
 
-  ![devzbysiu's github stats](https://github-readme-stats.vercel.app/api?username=devzbysiu&count_private=true&include_all_commits=true)
+  ![devzbysiu's github stats](https://github-readme-stats-five-rho-35.vercel.app/api?username=devzbysiu&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -88,39 +88,39 @@ what I want.
 ― Linus Torvalds
 
 <a href="https://github.com/devzbysiu/je">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=je" />
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=je" />
 </a>
 
 <a href="https://github.com/devzbysiu/cargo-blinc">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
+  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
 </a>
 
 <p>....</p>
 
 <a href="https://github.com/devzbysiu/dox">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
 </a>
 
 <a href="https://github.com/devzbysiu/quizers">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
+  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
 </a>
 
 <p>....</p>
 
 <a href="https://github.com/devzbysiu/transition">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
 </a>
 
 <a href="https://github.com/devzbysiu/cleaboard">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
+  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
 <p>....</p>
 
 <a href="https://github.com/devzbysiu/books-daemon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
 </a>
 
 <a href="https://github.com/devzbysiu/sweetch-bot">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
+  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
 </a>
