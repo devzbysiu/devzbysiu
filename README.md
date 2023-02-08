@@ -77,7 +77,7 @@ what I want.
 
 <div align="center">
 
-  ![devzbysiu's github stats](https://github-readme-stats-five-rho-35.vercel.app/api?username=devzbysiu&count_private=true&include_all_commits=true)
+  ![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github)](https://quine.sh)
 
 </div>
 
