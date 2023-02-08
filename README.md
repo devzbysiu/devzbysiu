@@ -77,7 +77,7 @@ what I want.
 
 <div align="center">
 
-  ![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github)](https://quine.sh)
+  [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github)](https://quine.sh)
 
 </div>
 
