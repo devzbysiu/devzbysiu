@@ -89,15 +89,10 @@ what I want.
 
 ― Linus Torvalds
 
-<a href="https://github.com/devzbysiu/chester">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
-</a>
 
 <a href="https://github.com/devzbysiu/je">
   <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=je" />
 </a>
-
-<p>....</p>
 
 <a href="https://github.com/devzbysiu/cargo-blinc">
   <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
@@ -107,8 +102,6 @@ what I want.
   <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
 </a>
 
-<p>....</p>
-
 <a href="https://github.com/devzbysiu/quizers">
   <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
 </a>
@@ -117,13 +110,10 @@ what I want.
   <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
 </a>
 
-<p>....</p>
-
 <a href="https://github.com/devzbysiu/cleaboard">
   <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
-<a href="https://github.com/devzbysiu/books-daemon">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=books-daemon" />
+<a href="https://github.com/devzbysiu/chester">
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
 </a>
-
