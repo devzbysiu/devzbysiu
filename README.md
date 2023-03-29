@@ -89,6 +89,9 @@ what I want.
 
 ― Linus Torvalds
 
+<a href="https://github.com/devzbysiu/chester">
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
+</a>
 
 <a href="https://github.com/devzbysiu/je">
   <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=je" />
@@ -114,6 +117,6 @@ what I want.
   <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
 </a>
 
-<a href="https://github.com/devzbysiu/chester">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
+<a href="https://github.com/devzbysiu/sweetch-bot">
+  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
 </a>
