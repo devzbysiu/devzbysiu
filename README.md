@@ -49,13 +49,14 @@ what I want.
   <img src="https://img.shields.io/badge/-Rust-f2f2f2?style=for-the-badge&logo=Rust&logoColor=000"/>
   <img src="https://img.shields.io/badge/-Shell-f2f2f2?style=for-the-badge&logo=Shell"/>
   <img src="https://img.shields.io/badge/-Java-f2f2f2?style=for-the-badge&logo=Java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/-Dart-f2f2f2?style=for-the-badge&logo=Dart&logoColor=000"/>
 </div>
 
 ##### Comfortable with
 <div align="center">
+  <img src="https://img.shields.io/badge/-Kotlin-f2f2f2?style=for-the-badge&logo=Kotlin"/>
   <img src="https://img.shields.io/badge/-JavaScript-f2f2f2?style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-f2f2f2?style=for-the-badge&logo=TypeScript"/>
-  <img src="https://img.shields.io/badge/-Dart-f2f2f2?style=for-the-badge&logo=Dart&logoColor=000"/>
   <img src="https://img.shields.io/badge/-Python-f2f2f2?style=for-the-badge&logo=Python"/>
 </div>
 
