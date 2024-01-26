@@ -63,11 +63,11 @@ I am passionate about creating and innovating. Programming allows me to craft cu
   <img src="https://img.shields.io/badge/-Docker-f2f2f2?style=for-the-badge&logo=Docker"/>
   <img src="https://img.shields.io/badge/-Kubernetes-f2f2f2?style=for-the-badge&logo=Kubernetes"/>
   <img src="https://img.shields.io/badge/-React-f2f2f2?style=for-the-badge&logo=React"/>
-  <img src="https://img.shields.io/badge/-Vue-f2f2f2?style=for-the-badge&logo=Vue.js"/>
   <img src="https://img.shields.io/badge/-Node.js-f2f2f2?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/-Flutter-f2f2f2?style=for-the-badge&logo=flutter&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-Google%20cloud-f2f2f2?style=for-the-badge&logo=google-cloud"/>
   <img src="https://img.shields.io/badge/-Terraform-f2f2f2?style=for-the-badge&logo=terraform&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-f2f2f2?style=for-the-badge&logo=apachekafka&logoColor=black"/>
 </div>
 
 ## <p id="stats">Stats</p>
