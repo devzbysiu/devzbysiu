@@ -74,7 +74,15 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 <div align="center">
 
-  [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh)
+  <a href="https://quine.sh">
+      <picture>
+          <source media="prefers-color-scheme: light" srcset="https://stats.quine.sh/devzbysiu/github?theme=light">
+          <source media="prefers-color-scheme: light" srcset="https://stats.quine.sh/devzbysiu/github?theme=dark">
+      </picture>
+  </a>
+
+  <!-- [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh) -->
+  <!-- [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh) -->
 
 </div>
 
