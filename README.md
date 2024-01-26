@@ -28,8 +28,8 @@ I am passionate about creating and innovating. Programming allows me to craft cu
       <b>
         🐧 Seasoned Linux hacker with deep OS understanding.<br>
         🍕 Avid Vim user, harnessing its efficiency across environments.<br>
-        ⁙ Dedicated to crafting SOLID, rigorously tested software.<br>
-        ☛ Fast, adaptable learner, expanding knowledge in ever-evolving tech landscape.<br>
+        🔍 Dedicated to crafting SOLID, rigorously tested software.<br>
+        📖 Fast, adaptable learner, expanding knowledge in ever-evolving tech landscape.<br>
         🦀 Passionate about using Rust for high-performance, maintainable software.<br>
       </b>
     </td>
