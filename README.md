@@ -18,15 +18,14 @@
 </div>
 
 ## <p id="about">About me</p>
-I love making things. I'm fascinated by programming because I can make my own tools which do exactly
-what I want.
+I am passionate about creating and innovating. Programming allows me to craft custom tools that precisely fulfill my needs and aspirations.
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="left"><b>🐧 Heavy Linux user<br>🍕 Using Vim anywhere I can<br>⁙ Focusing on making SOLID, well tested software</b></td>
-    <td align="left"><b>☛ Quick learner<br>🦀 Writing software in <a href="https://www.rust-lang.org/">Rust</a> in my free time<br><b></td>
+    <td align="left"><b>🐧 Seasoned Linux enthusiast with deep OS understanding.<br>🍕 Avid Vim user, harnessing its efficiency across environments.<br>⁙ Dedicated to crafting SOLID, rigorously tested software.</b></td>
+    <td align="left"><b>☛ Fast, adaptable learner, expanding knowledge in ever-evolving tech landscape.<br>🦀 Passionate about using Rust for high-performance, maintainable software.<br><b></td>
   </tr>
 </table>
 
