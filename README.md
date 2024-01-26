@@ -75,8 +75,8 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 <div align="center">
 
   <picture>
-      <source media="prefers-color-scheme: light" srcset="banner-light.png">
-      <source media="prefers-color-scheme: light" srcset="banner.png">
+      <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+      <source media="(prefers-color-scheme: light)" srcset="banner.png">
   </picture>
 
   <!-- [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh) -->
