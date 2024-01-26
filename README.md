@@ -38,7 +38,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 </div>
 
-### <p id="languages">Languages</p>
+## <p id="languages">Languages</p>
 
 ##### Most comfortable with
 <div align="center">
