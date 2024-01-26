@@ -107,11 +107,3 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 <a href="https://github.com/devzbysiu/transition">
   <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
 </a>
-
-<a href="https://github.com/devzbysiu/cleaboard">
-  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cleaboard" />
-</a>
-
-<a href="https://github.com/devzbysiu/sweetch-bot">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=sweetch-bot" />
-</a>
