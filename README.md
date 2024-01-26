@@ -38,16 +38,6 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 </div>
 
-<details>
-  <summary>Experience</summary>
-
-  - over 5 years of commercial experience in Java
-  - working on multiple projects in international teams for big clients (worldwide, known brands)
-  - technical interviewer of Java devs for over 3 years
-  - technical interviewer of React devs
-
-</details>
-
 ### <p id="languages">Languages</p>
 
 ##### Most comfortable with
