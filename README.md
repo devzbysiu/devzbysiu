@@ -76,8 +76,6 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
   [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh)
 
-  [![devzbysiu's GitHub | Topics Over Time](https://stats.quine.sh/devzbysiu/topics-over-time?theme=light)](https://quine.sh)
-
 </div>
 
 ## <p id="my-projects">My projects</p>
