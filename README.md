@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-      <source media="(prefers-color-scheme: light)" srcset="banner.png">
-      <source media="(prefers-color-scheme: dark)" srcset="banner-light.png">
-      <img src="banner.png" width="50%" title="">
+      <source media="(prefers-color-scheme: light)" srcset="dark-banner.png">
+      <source media="(prefers-color-scheme: dark)" srcset="light-banner.png">
+      <img src="dark-banner.png">
   </picture>
 </div>
 
@@ -80,8 +80,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 <div align="center">
 
-  <!-- [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh) -->
-  <!-- [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=light)](https://quine.sh) -->
+  [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=dark)](https://quine.sh)
 
 </div>
 
