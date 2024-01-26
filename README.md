@@ -11,9 +11,8 @@
 <div>
   <a href="https://dev.to/GrahamTheDev">
     <picture>
-      <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="banner.png">
-      <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="banner.png">
-      <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="banner-light.png">
+      <source media="(prefers-color-scheme: light)" srcset="banner.png">
+      <source media="(prefers-color-scheme: dark)" srcset="banner-light.png">
       <img src="banner.png"
         alt="You will find me writing about tech, web dev, accessibility, breaking the internet and more over on DEV! Purple and neon pink design with Graham pointing at the next section"
         width="50%" title="My writing on DEV">
