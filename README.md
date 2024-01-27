@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-
   <h3>
     <a href="#about">About</a>
     <span> | </span>
