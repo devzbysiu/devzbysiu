@@ -55,6 +55,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 ##### Comfortable with
 <div align="center">
+  <img src="https://img.shields.io/badge/-Go-f2f2f2?style=for-the-badge&logo=Go"/>
   <img src="https://img.shields.io/badge/-Kotlin-f2f2f2?style=for-the-badge&logo=Kotlin"/>
   <img src="https://img.shields.io/badge/-JavaScript-f2f2f2?style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-f2f2f2?style=for-the-badge&logo=TypeScript"/>
