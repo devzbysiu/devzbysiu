@@ -23,6 +23,7 @@
 </div>
 
 ## <p id="about">About me</p>
+
 I am passionate about creating and innovating. Programming allows me to craft custom tools that precisely fulfill my needs and aspirations.
 
 <div align="center">
@@ -46,6 +47,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 ## <p id="languages">Languages</p>
 
 ##### Most comfortable with
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Rust-f2f2f2?style=for-the-badge&logo=Rust&logoColor=000"/>
   <img src="https://img.shields.io/badge/-Shell-f2f2f2?style=for-the-badge&logo=Shell"/>
@@ -54,6 +56,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 </div>
 
 ##### Comfortable with
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Go-f2f2f2?style=for-the-badge&logo=Go"/>
   <img src="https://img.shields.io/badge/-Kotlin-f2f2f2?style=for-the-badge&logo=Kotlin"/>
@@ -63,6 +66,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 </div>
 
 ## <p id="technologies">Technologies</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Linux-f2f2f2?style=for-the-badge&logo=Linux&logoColor=000"/>
   <img src="https://img.shields.io/badge/-AWS-f2f2f2?style=for-the-badge&logo=Amazon-AWS&logoColor=F90"/>
@@ -80,7 +84,9 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 <div align="center">
 
-  [![devzbysiu's GitHub stats](https://stats.quine.sh/devzbysiu/github?theme=dark)](https://quine.sh)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=devzbysiu&theme=dark)](https://git.io/streak-stats)
+  
+  [![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=devzbysiu&theme=dracula)](https://github.com/devzbysiu/github-readme-activity-graph)
 
 </div>
 
