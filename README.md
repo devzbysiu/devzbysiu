@@ -96,26 +96,31 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 ― Linus Torvalds
 
-<a href="https://github.com/devzbysiu/chester">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
-</a>
+<div align="center">
 
-<a href="https://github.com/devzbysiu/je">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=je" />
-</a>
+  <a href="https://github.com/devzbysiu/chester">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
+  </a>
 
-<a href="https://github.com/devzbysiu/cargo-blinc">
-  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
-</a>
+  <a href="https://github.com/devzbysiu/je">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=je" />
+  </a>
 
-<a href="https://github.com/devzbysiu/dox">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
-</a>
+  <a href="https://github.com/devzbysiu/cargo-blinc">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=cargo-blinc" />
+  </a>
 
-<a href="https://github.com/devzbysiu/quizers">
-  <img align="right" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
-</a>
+  <a href="https://github.com/devzbysiu/dox">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=dox" />
+  </a>
 
-<a href="https://github.com/devzbysiu/transition">
-  <img align="left" src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
-</a>
+  <a href="https://github.com/devzbysiu/quizers">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=quizers" />
+  </a>
+
+  <a href="https://github.com/devzbysiu/transition">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
+  </a>
+
+
+</div>
