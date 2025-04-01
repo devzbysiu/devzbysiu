@@ -84,8 +84,6 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=devzbysiu&theme=dark)](https://git.io/streak-stats)
-  
   [![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=devzbysiu&theme=dracula)](https://github.com/devzbysiu/github-readme-activity-graph)
 
 </div>
