@@ -84,7 +84,7 @@ I am passionate about creating and innovating. Programming allows me to craft cu
 
 <div align="center">
 
-  [![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=devzbysiu&theme=dracula)](https://github.com/devzbysiu/github-readme-activity-graph)
+  [![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=devzbysiu&theme=dracula)](https://github.com/devzbysiu/devzbysiu)
 
 </div>
 
