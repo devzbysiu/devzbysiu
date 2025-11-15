@@ -101,8 +101,8 @@ I am passionate about creating and innovating. Programming allows me to craft cu
     <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=chester" />
   </a>
 
-  <a href="https://github.com/devzbysiu/je">
-    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=je" />
+  <a href="https://github.com/devzbysiu/zos">
+    <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=zos" />
   </a>
 
   <a href="https://github.com/devzbysiu/cargo-blinc">
