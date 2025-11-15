@@ -53,12 +53,13 @@ I am passionate about creating and innovating. Programming allows me to craft cu
   <img src="https://img.shields.io/badge/-Shell-f2f2f2?style=for-the-badge&logo=Shell"/>
   <img src="https://img.shields.io/badge/-Java-f2f2f2?style=for-the-badge&logo=Java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/-Dart-f2f2f2?style=for-the-badge&logo=Dart&logoColor=000"/>
+  <img src="https://img.shields.io/badge/-Go-f2f2f2?style=for-the-badge&logo=Go"/>
 </div>
 
 ##### Comfortable with
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Go-f2f2f2?style=for-the-badge&logo=Go"/>
+  <img src="https://img.shields.io/badge/-Zig-f2f2f2?style=for-the-badge&logo=Zig"/>
   <img src="https://img.shields.io/badge/-Kotlin-f2f2f2?style=for-the-badge&logo=Kotlin"/>
   <img src="https://img.shields.io/badge/-JavaScript-f2f2f2?style=for-the-badge&logo=JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-f2f2f2?style=for-the-badge&logo=TypeScript"/>
@@ -119,6 +120,5 @@ I am passionate about creating and innovating. Programming allows me to craft cu
   <a href="https://github.com/devzbysiu/transition">
     <img src="https://github-readme-stats-five-rho-35.vercel.app/api/pin/?username=devzbysiu&repo=transition" />
   </a>
-
 
 </div>
